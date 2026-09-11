@@ -51,10 +51,6 @@ The displayed information updates every time another key is pressed.
 4. Press any key on your keyboard.
 5. See the key information displayed on the screen.
 
-## 📸 Preview
-
-*Add a screenshot or GIF of the project here.*
-
 ## 📚 What I Learned
 
 This project helped me understand how JavaScript can listen for user keyboard interactions and use the event object to access information about the event.
